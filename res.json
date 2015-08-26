@@ -1,0 +1,11 @@
+[
+	{
+		"name" : "vertSrc",
+		"src"	 : "bones.vert",
+		"type" : "text"
+	}, {
+		"name" : "fragSrc",
+		"src"  : "bones.frag",
+		"type" : "text"
+	}
+]
